@@ -1,0 +1,177 @@
+//<div class="game-item">
+            <span>Rise of Tomb Raider:</span> $18,500
+            <button onclick="selectGame('Rise of Tomb Raider', 18500)">Seleccionar</button>
+        </div>
+        <div class="game-item">
+            <span>Elden Ring:</span> $10,000
+            <button onclick="selectGame('Elden Ring', 10000)">Seleccionar</button>
+        </div>
+        <div class="game-item">
+            <span>Tomb Raider 2013:</span> $3,000
+            <button onclick="selectGame('Tomb Raider 2013', 3000)">Seleccionar</button>
+        </div>
+        <div class="game-item">
+            <span>The Last Of Us Part 1:</span> $0
+            <button onclick="selectGame('The Last Of Us Part 1', 0)">Seleccionar</button>
+        </div>
+        <div class="game-item">
+            <span>Shadow Of Tomb Raider:</span> $5,000
+            <button onclick="selectGame('Shadow Of Tomb Raider', 5000)">Seleccionar</button>
+        </div>
+        <div class="game-item">
+            <span>DAYS GONE:</span> $10,000
+            <button onclick="selectGame('DAYS GONE', 10000)">Seleccionar</button>
+        </div>
+        <div class="game-item">
+            <span>Devil May Cry 5:</span> $9,500
+            <button onclick="selectGame('Devil May Cry 5', 9500)">Seleccionar</button>
+        </div>
+        <div class="game-item">
+            <span>Gas Station Simulator:</span> $1,000
+            <button onclick="selectGame('Gas Station Simulator', 1000)">Seleccionar</button>
+        </div>
+        <div class="game-item">
+            <span>Rainbow 6:</span> $9,500
+            <button onclick="selectGame('Rainbow 6', 9500)">Seleccionar</button>
+        </div>
+        <div class="game-item">
+            <span>GTA5:</span> $5,000
+            <button onclick="selectGame('GTA5', 5000)">Seleccionar</button>
+        </div>
+        <div class="game-item">
+            <span>Resident Evil 4:</span> $10,000
+            <button onclick="selectGame('Resident Evil 4', 10000)">Seleccionar</button>
+        </div>
+        <div class="game-item">
+            <span>Sekiro:</span> $15,000
+            <button onclick="selectGame('Sekiro', 15000)">Seleccionar</button>
+        </div>
+        <div class="game-item">
+            <span>Subnautica:</span> $4,000
+            <button onclick="selectGame('Subnautica', 4000)">Seleccionar</button>
+        </div>
+        <div class="game-item">
+            <span>BeamNG.Drive:</span> $4,500
+            <button onclick="selectGame('BeamNG.Drive', 4500)">Seleccionar</button>
+        </div>
+        <div class="game-item">
+            <span>CupHead:</span> $4,900
+            <button onclick="selectGame('CupHead', 4900)">Seleccionar</button>
+        </div>
+        <div class="game-item">
+            <span>Dark Souls I:</span> $15,500
+            <button onclick="selectGame('Dark Souls I', 15500)">Seleccionar</button>
+        </div>
+        <div class="game-item">
+            <span>For Honor:</span> $5,500
+            <button onclick="selectGame('For Honor', 5500)">Seleccionar</button>
+        </div>
+        <div class="game-item">
+            <span>Call Of Duty Black Ops II:</span> $5,000
+            <button onclick="selectGame('Call Of Duty Black Ops II', 5000)">Seleccionar</button>
+        </div>
+        <div class="game-item">
+            <span>Forza Horizon 5:</span> $10,300
+            <button onclick="selectGame('Forza Horizon 5', 10300)">Seleccionar</button>
+        </div>
+        <div class="game-item">
+            <span>Spiderman:</span> $20,000
+            <button onclick="selectGame('Spiderman', 20000)">Seleccionar</button>
+        </div>
+        <div class="game-item">
+            <span>Mortal Kombat 1:</span> $9,500
+            <button onclick="selectGame('Mortal Kombat 1', 9500)">Seleccionar</button>
+        </div>
+        <div class="game-item">
+            <span>Detroit Become Human:</span> $10,000
+            <button onclick="selectGame('Detroit Become Human', 10000)">Seleccionar</button>
+        </div>
+        <div class="game-item">
+            <span>Hitman 2:</span> $4,000
+            <button onclick="selectGame('Hitman 2', 4000)">Seleccionar</button>
+        </div>
+        <div class="game-item">
+            <span>Ghost of Tsushima:</span> $13,000
+            <button onclick="selectGame('Ghost of Tsushima', 13000)">Seleccionar</button>
+        </div>
+        <div class="game-item">
+            <span>CYBERPUNK 2077:</span> $13,000
+            <button onclick="selectGame('CYBERPUNK 2077', 13000)">Seleccionar</button>
+        </div>
+        <div class="game-item">
+            <span>PORTAL 2:</span> $3,000
+            <button onclick="selectGame('PORTAL 2', 3000)">Seleccionar</button>
+        </div>
+        <div class="game-item">
+            <span>Uncharted Legado de los Ladrones:</span> $9,500
+            <button onclick="selectGame('Uncharted Legado de los Ladrones', 9500)">Seleccionar</button>
+        </div>
+        <div class="game-item">
+            <span>Red Dead Redemption 2:</span> $15,000
+            <button onclick="selectGame('Red Dead Redemption 2', 15000)">Seleccionar</button>
+        </div>
+        <div class="game-item">
+            <span>The WITCHER 3:</span> $20,000
+            <button onclick="selectGame('The WITCHER 3', 20000)">Seleccionar</button>
+        </div>
+        <div class="game-item">
+            <span>Sea Of Thieves:</span> $15,500
+            <button onclick="selectGame('Sea Of Thieves', 15500)">Seleccionar</button>
+        </div>
+        <div class="game-item">
+            <span>Spiderman Miles Morales:</span> $6,000
+            <button onclick="selectGame('Spiderman Miles Morales', 6000)">Seleccionar</button>
+        </div>
+        <div class="game-item">
+            <span>God of War:</span> $10,300
+            <button onclick="selectGame('God of War', 10300)">Seleccionar</button>
+        </div>
+        <div class="game-item">
+            <span>Assetto Corsa:</span> $17,000
+            <button onclick="selectGame('Assetto Corsa', 17000)">Seleccionar</button>
+        </div>
+        <div class="game-item">
+            <span>BeamNG.Drive:</span> $15,000
+            <button onclick="selectGame('BeamNG.Drive', 15000)">Seleccionar</button>
+        </div>
+        <div class="game-item">
+            <span>Call Of Duty All Games Account:</span> $4,000
+            <button onclick="selectGame('Call Of Duty All Games Account', 4000)">Seleccionar</button>
+        </div>
+        <div class="game-item">
+            <span>Far Cry 6:</span> $4,500
+            <button onclick="selectGame('Far Cry 6', 4500)">Seleccionar</button>
+        </div>
+        <div class="game-item">
+            <span>BATTLEFIELD IIIII:</span> $31,000
+            <button onclick="selectGame('BATTLEFIELD IIIII', 31000)">Seleccionar</button>
+        </div>
+        <div class="game-item">
+            <span>BATTLEFIELD IIII:</span> $20,000
+            <button onclick="selectGame('BATTLEFIELD IIII', 20000)">Seleccionar</button>
+        </div>
+        <div class="game-item">
+            <span>BATTLEFIELD I:</span> $10,000
+            <button onclick="selectGame('BATTLEFIELD I', 10000)">Seleccionar</button>
+        </div>
+        <div class="game-item">
+            <span>Hitman I:</span> $5,000
+            <button onclick="selectGame('Hitman I', 5000)">Seleccionar</button>
+        </div>
+        <div class="game-item">
+            <span>HITMAN III:</span> $5,000
+            <button onclick="selectGame('HITMAN III', 5000)">Seleccionar</button>
+        </div>
+        <div class="game-item">
+            <span>TEKKEN 8:</span> $7,500
+            <button onclick="selectGame('TEKKEN 8', 7500)">Seleccionar</button>
+        </div>
+        <div class="game-item">
+            <span>Ark Survival Evolved:</span> $7,500
+            <button onclick="selectGame('Ark Survival Evolved', 7500)">Seleccionar</button>
+        </div>
+        <div class="game-item">
+            <span>Euro Truck Simulator 2:</span> $15,000
+            <button onclick="selectGame('Euro Truck Simulator 2', 15000)">Seleccionar</button>
+        </div>
+    </section>
